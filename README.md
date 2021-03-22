@@ -2,7 +2,9 @@
 
 
 
-![Gmail Badge]((https://img.shields.io/badge/-allancbarbosa@gmail.com-c14438?style=for-the-badge&logo=gmail&logoColor=white)mailto:allancbarbosa@gmail.com)
+[![Gmail Badge]((https://img.shields.io/badge/-allancbarbosa@gmail.com-c14438?style=for-the-badge&logo=gmail&logoColor=white)](mailto:allancbarbosa@gmail.com)
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/allan-carvalho-barbosa-023191126/)
 
 - 🔭 I’m currently working in a financial management program in C#...
 - 🌱 I’m currently learning: C#, Node.js, JavaScript ...
