@@ -2,7 +2,7 @@
 
 
 
-[![Gmail Badge]((https://img.shields.io/badge/-allancbarbosa@gmail.com-c14438?style=for-the-badge&logo=gmail&logoColor=white)](mailto:allancbarbosa@gmail.com)
+[![Gmail Badge](https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_dark_1x_r2.png)](mailto:allancbarbosa@gmail.com)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/allan-carvalho-barbosa-023191126/)
 
