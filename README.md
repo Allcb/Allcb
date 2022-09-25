@@ -1,15 +1,26 @@
 ### Hi there, i'm Allan Carvalho Barbosa👋
 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/allan-carvalho-barbosa-023191126/) [![Gmail Badge](https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_dark_1x_r2.png)](mailto:allancbarbosa@gmail.com)
 
+- 🔭 I am currently working as a backend developer in C#
+- 🌱 I’m currently learning: C#, SQL, JavaScript ...
+- 😄 Pronouns: Him/ his
 
-[![Gmail Badge](https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_dark_1x_r2.png)](mailto:allancbarbosa@gmail.com)
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/allan-carvalho-barbosa-023191126/)
-
-- 🔭 I’m currently working in a financial management program in C#...
-- 🌱 I’m currently learning: C#, Node.js, JavaScript ...
-
-
+<div>
+  <a href="https://github.com/Allcb">
+  <img heiht="180cm" src="https://github-readme-stats.vercel.app/api?username=Allcb&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img heiht="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Allcb&layout=compact&langs_count=16&theme=radical"/>
+</div>
+<div>
+</div>
+<div>
+  <img align="center" alt="Allcb-Csharp" heiht="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/> 
+  <img align="center" alt="Allcb-DOT-NET" heiht="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg"/>
+  <img align="center" alt="Allcb-AZURE" heiht="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg"/>
+  <img align="center" alt="Allcb-SQL-SERVE" heiht="30" width="40" src="https://www.freeiconspng.com/uploads/sql-server-icon-png-8.png" />  
+  <img align="center" alt="Allcb-HTML" heiht="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+  <img align="center" alt="Allcb-CSS" heiht="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+  </div>
 <!--
 **Allcb/Allcb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
