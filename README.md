@@ -3,7 +3,7 @@
 ##
 
 - 🔭 I am currently working as a backend developer in C#
-- 🌱 I’m currently learning: C#, SQL, JavaScript ...
+- 🌱 I’m currently learning: C#, SQL, Angular ...
 - 😄 Pronouns: Him/ his
 
 ##
