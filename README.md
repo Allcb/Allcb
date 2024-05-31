@@ -2,7 +2,7 @@
 
 ##
 
-- 🔭 I am currently working as a backend developer in C#
+- 🔭 I am currently working as a Fullstack developer in C#
 - 🌱 I’m currently learning: C#, SQL, Angular ...
 - 😄 Pronouns: Him/ his
 
