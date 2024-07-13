@@ -1,6 +1,6 @@
 # <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnRoYTJkYTJxZjVhMzRsazRyaHl6eDNtemJ0eGZlNHpzeW5iaXdiaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/aUR6unOaMpjflMx3SZ/giphy.webp" heiht="30" width="40"> Hi there, i'm Allan Carvalho Barbosa <img src="https://github.com/Allcb/Allcb/blob/main/wave.gif" width="50px" height="50px" />
 
-<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200">
+<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="190">
 </em></p>
 
 - 🔭 I am currently working as a Fullstack developer in C# <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" heiht="30" width="40">
