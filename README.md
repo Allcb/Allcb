@@ -1,9 +1,10 @@
-# Hi there, i'm Allan Carvalho Barbosa <img src="https://github.com/Allcb/Allcb/blob/main/wave.gif" width="30px" height="30px" />
+# </a><img src="https://i.giphy.com/gjrYDwbjnK8x36xZIO.webp" heiht="30" width="40">  Hi there, i'm Allan Carvalho Barbosa <img src="https://github.com/Allcb/Allcb/blob/main/wave.gif" width="50px" height="50px" />
 
-
-- 🔭 I am currently working as a Fullstack developer in C#
-- 🌱 I’m currently learning: C#, SQL, Angular ... </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+- 🔭 I am currently working as a Fullstack developer in C# </a><img src="https://i.giphy.com/8SRqnPebX1H8lQy5YR.webp" heiht="30" width="40"> 
+- 🌱 I’m currently learning: C#, SQL, Angular ... </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" heiht="30" width="40"> 
 - 😄 Pronouns: Him/ his
+
+</a><img src="https://i.giphy.com/M9gbBd9nbDrOTu1Mqx.webp" width="100"> 
 
 ##
 
@@ -16,7 +17,7 @@
 
 ##
 
-- ⚡  Technologies I use in my day:
+- ⚡  Technologies I use in my day: </a><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnRoYTJkYTJxZjVhMzRsazRyaHl6eDNtemJ0eGZlNHpzeW5iaXdiaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/aUR6unOaMpjflMx3SZ/giphy.webp" heiht="30" width="40"> 
 
 <div>
   <img align="center" alt="Allcb-Csharp" heiht="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/> 
