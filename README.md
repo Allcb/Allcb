@@ -1,16 +1,18 @@
-### Hi there, i'm Allan Carvalho Barbosa👋
+# Hi there, i'm Allan Carvalho Barbosa <img src="https://github.com/Allcb/Allcb/blob/main/wave.gif" width="30px" height="30px" />
 
-##
 
 - 🔭 I am currently working as a Fullstack developer in C#
-- 🌱 I’m currently learning: C#, SQL, Angular ...
+- 🌱 I’m currently learning: C#, SQL, Angular ... </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 - 😄 Pronouns: Him/ his
 
 ##
 
 - 👯 Let's get connected:
 
-  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/allan-carvalho-barbosa-023191126/) [![Gmail Badge](https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_dark_1x_r2.png)](mailto:allancbarbosa@gmail.com)
+<div>
+  <a href = "mailto:allancbarbosa@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/allan-carvalho-barbosa-023191126/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
 
 ##
 
